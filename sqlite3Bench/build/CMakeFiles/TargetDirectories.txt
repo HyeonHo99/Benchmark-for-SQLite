@@ -1,0 +1,4 @@
+/home/cvlab/sqlite-src-3360000/SWE3033-F2022/pa3/sqlite3Bench/build/CMakeFiles/sqliteBenchLib.dir
+/home/cvlab/sqlite-src-3360000/SWE3033-F2022/pa3/sqlite3Bench/build/CMakeFiles/sqliteBench.dir
+/home/cvlab/sqlite-src-3360000/SWE3033-F2022/pa3/sqlite3Bench/build/CMakeFiles/edit_cache.dir
+/home/cvlab/sqlite-src-3360000/SWE3033-F2022/pa3/sqlite3Bench/build/CMakeFiles/rebuild_cache.dir

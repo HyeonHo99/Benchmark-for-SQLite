@@ -1,0 +1,1 @@
+/usr/bin/g++  -march=native -O3 -DNDEBUG CMakeFiles/sqliteBench.dir/main.cc.o -o sqliteBench  libsqliteBenchLib.a -lsqlite3 
